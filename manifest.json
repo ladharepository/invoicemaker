@@ -1,0 +1,24 @@
+{
+  "name": "JKM Invoice Maker",
+  "short_name": "JKM Invoice",
+  "description": "Invoice Maker for Jugal Kishore Maheshwari, Badabazar Jaleswar",
+  "start_url": "./invoice-generator.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
